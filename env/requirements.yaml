@@ -10,3 +10,6 @@ dependencies:
 - name: oakary-ats
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.14
+- name: oakary-ats-server
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.16
