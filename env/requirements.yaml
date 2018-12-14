@@ -8,8 +8,8 @@ dependencies:
   repository: https://chartmuseum.build.cd.jenkins-x.io
   version: 2.3.58
 - name: oakary-ats-client
-  repository: https://chartmuseum.jx.k8s.trunksys.com
-  version: 0.0.77
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.78
 - name: oakary-ats-server
   repository: https://chartmuseum.jx.k8s.trunksys.com
   version: 0.0.118
