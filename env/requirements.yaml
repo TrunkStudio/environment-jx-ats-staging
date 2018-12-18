@@ -11,5 +11,5 @@ dependencies:
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.80
 - name: oakary-ats-server
-  repository: https://chartmuseum.jx.k8s.trunksys.com
-  version: 0.0.118
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.121
