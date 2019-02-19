@@ -12,4 +12,4 @@ dependencies:
   version: 0.7.10
 - name: oakary-ats-server
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.5.44
+  version: 0.5.45
