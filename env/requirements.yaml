@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.58
 - name: oakary-ats-client
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.7.32
+  version: 0.7.33
 - name: oakary-ats-server
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.5.67
